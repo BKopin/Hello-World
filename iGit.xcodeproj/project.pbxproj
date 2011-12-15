@@ -23,13 +23,13 @@
 		E7D782B21499FA13006DFFCA /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		E7D782B41499FA13006DFFCA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		E7D782B61499FA13006DFFCA /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		E7D782BA1499FA13006DFFCA /* iGit-Info.plist */ = {isa = PBXFileReference; path = "iGit-Info.plist"; sourceTree = "<group>"; };
+		E7D782BA1499FA13006DFFCA /* iGit-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iGit-Info.plist"; sourceTree = "<group>"; };
 		E7D782BC1499FA13006DFFCA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E7D782BE1499FA13006DFFCA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E7D782C01499FA13006DFFCA /* iGit-Prefix.pch */ = {isa = PBXFileReference; path = "iGit-Prefix.pch"; sourceTree = "<group>"; };
-		E7D782C11499FA13006DFFCA /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		E7D782C01499FA13006DFFCA /* iGit-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iGit-Prefix.pch"; sourceTree = "<group>"; };
+		E7D782C11499FA13006DFFCA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		E7D782C21499FA13006DFFCA /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		E7D782C41499FA13006DFFCA /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		E7D782C41499FA13006DFFCA /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		E7D782C51499FA13006DFFCA /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		E7D782C81499FA13006DFFCA /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPhone.xib; sourceTree = "<group>"; };
 		E7D782CB1499FA13006DFFCA /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPad.xib; sourceTree = "<group>"; };

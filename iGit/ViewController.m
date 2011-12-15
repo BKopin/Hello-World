@@ -26,6 +26,9 @@
 
 - (void)viewDidUnload
 {
+    NSLog(@"Hello WOrld!");
+    NSLog(@"Hello WOrld!");
+    
     [super viewDidUnload];
     // Release any retained subviews of the main view.
     // e.g. self.myOutlet = nil;
