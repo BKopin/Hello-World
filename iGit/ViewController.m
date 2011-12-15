@@ -28,6 +28,7 @@
 {
     NSLog(@"Hello WOrld!");
     NSLog(@"Hello WOrld!");
+    NSLog(@"sdasdsdsa");
     
     [super viewDidUnload];
     // Release any retained subviews of the main view.
